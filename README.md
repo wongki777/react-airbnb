@@ -1,5 +1,5 @@
-### react-airbnb
-# This is online experience landing page inspired by Airbnb using React and MDB Bootstrap.
+# react-airbnb
+### This is online experience landing page inspired by Airbnb using React and MDB Bootstrap.
 
 Please execute code below to run the page.
 
