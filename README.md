@@ -1,5 +1,8 @@
 # react-airbnb
 
+This is online experience landing page inspired by Airbnb using React.
+Please execute code below to run the page.
+
 NPM
 Prerequisites
 
