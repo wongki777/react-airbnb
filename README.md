@@ -12,7 +12,7 @@ If you want to use package from npm you have to have a project with React. We re
 
 Step 1
 
-# Create React App. We are using React 17+ version.
+### Create React App. We are using React 17+ version.
 
 TERMINAL
 npx create-react-app my-app
@@ -27,19 +27,19 @@ MDB installation
 
 Step 1
 
-# Setup MDB
+### Setup MDB
 
 TERMINAL
 npm i mdb-react-ui-kit
 Font Awesome
 
-# Install Font Awesome.
+### Install Font Awesome.
 
 TERMINAL
 npm i @fortawesome/fontawesome-free
 CSS import
 
-# Add the following lines in your index.js file before the App.js file import:
+### Add the following lines in your index.js file before the App.js file import:
 
 INDEX.JS
 import 'mdb-react-ui-kit/dist/css/mdb.min.css';
